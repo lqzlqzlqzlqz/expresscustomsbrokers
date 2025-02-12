@@ -78,22 +78,35 @@
             >
               <ul id="menu-menu-1" class="u-nav u-spacing-2 u-unstyled u-nav-1">
                 <li
+                  v-for="(item, index) in menuItems"
+                  :key="index"
                   id="menu-item-657"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-345 current_page_item menu-item-657 u-nav-item"
                 >
-                  <a
-                    href="/"
-                    aria-current="page"
+                <a
+                    :href="item.link"
                     class="menu-item-btn"
-                    style="padding: 10px 20px"
                     :class="{
-                      active: route.name === 'Home',
+                      active: item.submenu ? isService : route.name === item.name,
                       bfm: orangeHeader,
                     }"
-                    >Home</a
+                    @click="(e) => item.click(e)"
+                    style="padding: 10px 20px"
                   >
+                    {{ item.label }}
+                  </a>
+                  <div v-if="item.submenu" class="dropdown-content">
+                    <a
+                      v-for="(subItem, subIndex) in item.submenu"
+                      :key="subIndex"
+                      :href="subItem.link"
+                      :class="{ active: route.name === subItem.name }"
+                    >
+                      {{ subItem.label }}
+                    </a>
+                  </div>
                 </li>
-                <li
+                <!-- <li
                   id="menu-item-669"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669 u-nav-item"
                 >
@@ -113,7 +126,7 @@
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-670 u-nav-item"
                 >
                   <a
-                    href="/"
+                    href="/services/section2"
                     class="menu-item-btn"
                     style="padding: 10px 20px"
                     :class="{ active: isService, bfm: orangeHeader }"
@@ -121,11 +134,6 @@
                     Services
                   </a>
                   <div class="dropdown-content">
-                    <!-- <a
-                      href="/services/section1"
-                      :class="{ active: route.name === 'section1' }"
-                      >Carousel</a
-                    > -->
                     <a
                       href="/services/section2"
                       :class="{ active: route.name === 'section2' }"
@@ -148,7 +156,7 @@
                     >
                   </div>
                 </li>
-                <!-- <li
+                <li
                   id="menu-item-671"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-671 u-nav-item"
                 >
@@ -162,7 +170,7 @@
                     style="padding: 10px 20px"
                     >FAQ</a
                   >
-                </li> -->
+                </li>
                 <li
                   id="menu-item-671"
                   class="menu-item menu-item-type-post_type menu-item-object-page menu-item-671 u-nav-item"
@@ -177,7 +185,7 @@
                     style="padding: 10px 20px"
                     >Contact</a
                   >
-                </li>
+                </li> -->
               </ul>
             </div>
             <div
@@ -203,18 +211,40 @@
                     class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"
                   >
                     <li
+                      v-for="(item, index) in menuItems"
+                      :key="index"
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-345 current_page_item menu-item-657 u-nav-item"
                     >
                       <a
-                        href="/"
+                        v-if="!item.submenu"
+                        :href="item.link"
                         aria-current="page"
                         class="u-button-style u-nav-link c-btn"
                         style="padding: 10px 20px"
-                        :class="{ active: route.name === 'Home' }"
-                        >Home</a
+                        :class="{ active: route.name === item.name }"
+                        @click="(e) => item.click(e)"
+                        >{{ item.label }}</a
                       >
+                      <div v-else class="services-menu">
+                        <div
+                          class="u-button-style u-nav-link"
+                          style="padding: 10px 20px; color: rgb(152, 204, 204);"
+                        >
+                          {{ item.label }}
+                        </div>
+                        <a
+                          v-for="subItem, k in item.submenu"
+                          :key="k"
+                          :href="subItem.link"
+                          :class="{
+                            active: route.name === subItem.name,
+                            'c-btn': true,
+                          }"
+                          >{{ subItem.label }}
+                        </a>
+                      </div>
                     </li>
-                    <li
+                    <!-- <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-669 u-nav-item"
                     >
                       <a
@@ -269,7 +299,7 @@
                         >
                       </div>
                     </li>
-                    <!-- <li
+                    <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-671 u-nav-item"
                     >
                       <a
@@ -279,7 +309,7 @@
                         :class="{ active: route.name === 'FAQ' }"
                         >FAQ</a
                       >
-                    </li> -->
+                    </li>
                     <li
                       class="menu-item menu-item-type-post_type menu-item-object-page menu-item-671 u-nav-item"
                     >
@@ -290,7 +320,7 @@
                         :class="{ active: route.name === 'Contact' }"
                         >Contact</a
                       >
-                    </li>
+                    </li> -->
                   </ul>
                 </div>
               </div>
@@ -347,7 +377,7 @@
               <span>
                 <a
                   class="u-active-none u-border-none u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1"
-                  href="https://wa.me/64800124191"
+                  href="tel:+64800124191"
                   >+64 800 124 191</a
                 >&nbsp;</span
               >
@@ -355,8 +385,8 @@
               <span>
                 <a
                   class="u-active-none u-border-none u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1"
-                  href="https://wa.me/640210343101"
-                  >+64 021 034 3101 (office)</a
+                  href="https://wa.me/64210343101"
+                  >+64 210 343 101 (office)</a
                 >&nbsp;</span
               >
             </p>
@@ -452,6 +482,30 @@ const isService = computed(() => {
 })
 
 const showContact = ref(false);
+
+// Define menu items
+const menuItems = [
+  { label: 'Home', link: '/', name: 'Home' },
+  {
+    label: 'Services',
+    link: '/services/section2',
+    name: 'Services',
+    submenu: [
+      { label: 'IMPORT & EXPORT SERVICE', link: '/services/section2', name: 'section2' },
+      { label: 'OCEAN FREIGHT', link: '/services/section3', name: 'section3' },
+      { label: 'AIR FREIGHT', link: '/services/section4', name: 'section4' },
+      { label: 'Service list', link: '/services/section5', name: 'section5' },
+    ],
+  },
+  { label: 'Customs Clearance', link: '/customs_clearance', name: 'Customs Clearance' },
+  { label: 'News', link: '/news', name: 'News' },
+  { label: 'FAQ', link: '/faq', name: 'FAQ' },
+  { label: 'Get a Quote', link: '/get_a_quote', name: 'Get a Quote', click: (e) => {
+    e && e.preventDefault();
+    showMailFormConfig('info@expresscustomsbrokers.co.nz');
+  } },
+  { label: 'Contact', link: '/contact', name: 'Contact' },
+];
   </script>
   
   <style scoped lang="scss">
@@ -510,7 +564,7 @@ const showContact = ref(false);
   color: black;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-  z-index: 1;
+  z-index: 300;
   transform: translateY(-10px);
   transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
 }

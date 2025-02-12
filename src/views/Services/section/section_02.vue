@@ -11,23 +11,22 @@
               IMPORT &amp; EXPORT SERVICE&nbsp;
             </h2>
             <p class="u-text u-text-2">
-              We are committed to our customer’s success and satisfaction, with
-              us you get great service wherever your cargo comes from!&nbsp;
+              We are committed to our customer's success and satisfaction. With us, you will get great service, wherever your cargo comes from!&nbsp;
               &nbsp; &nbsp; &nbsp;&nbsp;<br />
-              <br />Our services include<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              Import and export custom clearance<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              Import and export documentation<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <br />Our service includes<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              Import and export Customs clearance<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              Import and export document preparation<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               Import &amp; Export licensing<br />&nbsp;
               ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Import &amp; Export
-              code&nbsp;<br />&nbsp; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              Costing calculations<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              MPI &amp; Customs’ Inspections
+              code applications&nbsp;<br />&nbsp; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              Cost calculations<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              MPI &amp; Customs' Inspections
             </p>
             <a
               href="javascript:void(0)"
               class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1"
               @click="showForm = true"
-              >Get Quote</a
+              >Get A Quote</a
             >
           </div>
         </div>

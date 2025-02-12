@@ -37,8 +37,8 @@
                         <br>
                         <a
                           class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1"
-                          href="tel:+640210343101"
-                          >+64 021 034 3101 (office)</a
+                          href="tel:+64210343101"
+                          >+64 210 343 101 (office)</a
                         >
                       </p>
                   <p class="u-text u-text-4">EMAIL:

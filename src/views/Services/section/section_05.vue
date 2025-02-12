@@ -1,7 +1,10 @@
 <template>
   <Layout :orangeHeader="true">
-    <Carousel/>
-    <section class="u-align-left u-clearfix u-section-6 main-content" id="carousel_873f">
+    <Carousel />
+    <section
+      class="u-align-left u-clearfix u-section-6 main-content"
+      id="carousel_873f"
+    >
       <div class="u-clearfix u-sheet u-sheet-1">
         <div
           class="u-container-style u-expanded-width u-group u-palette-2-base u-shape-rectangle u-group-1"
@@ -20,21 +23,14 @@
           </div>
         </div>
         <ul class="u-custom-list u-text u-text-2">
-          <li>
+          <li v-for="item, index in servicesList" :key="index">
             <div class="u-list-icon u-list-icon-1">
-              <svg class="u-svg-content" viewBox="0 0 24 24" id="svg-e074">
-                <path
-                  d="m23.526 5.101c-.04-.399-.231-.759-.541-1.014l-2.318-1.904c-.639-.524-1.585-.432-2.111.207l-9.745 11.86-3.916-3.355c-.628-.536-1.576-.465-2.115.163l-1.952 2.278c-.261.304-.388.691-.357 1.091s.215.764.52 1.024l7.403 6.346c.275.235.616.361.974.361.044 0 .089-.002.134-.006.405-.036.77-.229 1.028-.542l12.662-15.411c.255-.309.373-.7.334-1.098z"
-                  fill="#2196f3"
-                ></path>
-                <path
-                  d="m.638 13.173c-.304.354-.452.807-.417 1.273.036.466.251.891.606 1.194l7.403 6.346v.001c.321.273.719.421 1.136.421.052 0 .104-.003.156-.007.472-.042.898-.266 1.199-.632l12.665-15.411c.613-.746.504-1.852-.242-2.464l-2.318-1.904c-.744-.612-1.848-.504-2.463.24l-9.584 11.665-3.722-3.189c-.732-.627-1.839-.543-2.467.189zm3.444-1.329 4.303 3.688c.153.131.348.196.554.178.201-.018.386-.115.514-.271l10.07-12.255c.087-.107.246-.123.352-.035l2.318 1.904c.107.088.123.246.035.353l-12.664 15.41c-.058.07-.132.087-.171.09-.039.006-.115.001-.185-.059l-7.404-6.346c-.068-.059-.083-.132-.086-.171-.003-.038.001-.113.06-.182l1.952-2.278c.089-.102.247-.116.352-.026z"
-                ></path>
-              </svg>
+              <check_svg />
             </div>
-            Import and Export Clearance
+            <!-- Customs & MPI Import and Export Clearance -->
+             {{ item }}
           </li>
-          <li>
+          <!-- <li>
             <div class="u-list-icon u-list-icon-2">
               <svg class="u-svg-content" viewBox="0 0 24 24" id="svg-e074">
                 <path
@@ -47,8 +43,8 @@
               </svg>
             </div>
             Bio-Security MPI Clearance
-          </li>
-          <li>
+          </li> -->
+          <!-- <li>
             <div class="u-list-icon u-list-icon-3">
               <svg class="u-svg-content" viewBox="0 0 24 24" id="svg-e074">
                 <path
@@ -60,7 +56,7 @@
                 ></path>
               </svg>
             </div>
-            Personal Effects Customs Clearance
+            Customs & MPI Personal Effects Clearance
           </li>
           <li>
             <div class="u-list-icon u-list-icon-4">
@@ -102,7 +98,7 @@
                 ></path>
               </svg>
             </div>
-            Oversea Supplier code application
+            Overseas Supplier code application
           </li>
           <li>
             <div class="u-list-icon u-list-icon-7">
@@ -145,21 +141,30 @@
               </svg>
             </div>
             ATF arrangements Cartage &amp; Delivery
-          </li>
+          </li> -->
         </ul>
         <p class="u-large-text u-text u-text-variant u-text-3">
-          Making life easier for the shipping community is a core company
-          value.&nbsp;&nbsp;We provide “worry-free transportation" with
-          personality. We work hard every day to be the most personable and
-          responsive logistics provider in the transportation industry.&nbsp;
-          Please feel free to contact us, our consultant will understand your
-          business needs and provide solution.
+          One of our company's core values is to make life easier for the
+          shipping community. We provide a "hassle-free, personalized service"
+          tailored to clients' own needs. We are becoming a world-class
+          brokerage and freight-forwarding company. Please feel free to contact
+          us! Our consultant will understand your freight and transport
+          requirements and provide you the best possible solution for your
+          needs.
         </p>
-        <a
-          href="/contact"
-          class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1"
-          >Contact us</a
-        >
+        <div class="nmc">
+          <a
+            href="/contact"
+            class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1 nm"
+            >Contact us</a
+          >
+          <a
+            href="javascript:void(0)"
+            @click="showForm = true"
+            class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1 nm"
+            >Get A Quote</a
+          >
+        </div>
         <div class="u-shape u-shape-svg u-text-palette-1-base u-shape-2">
           <svg
             class="u-svg-link"
@@ -187,14 +192,42 @@
       </div>
     </section>
     <Footer />
+    <QuoteForm v-model="showForm" />
   </Layout>
 </template>
   <script setup>
 import Layout from '../../../layout/main/layout.vue';
 import Footer from '../../../layout/footer/footer.vue';
 import Carousel from './section_01.vue';
+import QuoteForm from '../../../components/QuoteForm/QuoteForm.vue';
+import check_svg from './check_svg.vue';
+import { ref } from 'vue';
 
+const showForm = ref(false);
+const servicesList = ref([
+  "Customs Clerance",
+  "Import & Export documentation preparation",
+  "import & Export Customs clearance ",
+  "Personal effects Customs & MPI clearance",
+  "Online shopping/shipment Customs clearance ",
+  "Importer & Exporter code/client code application",
+  "Overseas supplier code application",
+  "Duty, GST, Drawback application",
+  "Import & Export licensing",
+  "Customs & MPI inspections",
+  "Freight forwarding & logistics",
+  "ATF arrangement cartridge & delivery",
+]);
   </script>
   <style scoped>
 @import url(../../../assets/style/services_html.css);
+.nmc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.nm {
+  margin: 0 !important;
+}
 </style>

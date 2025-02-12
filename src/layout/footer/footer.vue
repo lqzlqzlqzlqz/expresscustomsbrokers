@@ -16,6 +16,8 @@
           <ul class="menu-list">
             <li><a href="/" class="menu-link">Home</a></li>
             <li><a href="/contact/" class="menu-link">Contact</a></li>
+            <li><a href="/faq/" class="menu-link">FAQ</a></li>
+            <li><a href="/customs_clearance/" class="menu-link">Customs Clearance</a></li>
           </ul>
         </div>
         <div class="footer-section services-section">

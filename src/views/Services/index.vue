@@ -254,7 +254,7 @@
               IMPORT &amp; EXPORT SERIVCE&nbsp;
             </h2>
             <p class="u-text u-text-2">
-              We are committed to our customer’s success and satisfaction, with
+              We are committed to our customer's success and satisfaction, with
               us you get great service wherever your cargo comes from!&nbsp;
               &nbsp; &nbsp; &nbsp;&nbsp;<br />
               <br />Our services include<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -267,9 +267,9 @@
               MPI &amp; Customs’ Inspections
             </p>
             <a
-              href="mailto:info@expresscustomsbrokers.co.nz?subject=Get quote"
+              href="mailto:info@expresscustomsbrokers.co.nz?subject=Get A Quote"
               class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1"
-              >Get Quote</a
+              >Get A Quote</a
             >
           </div>
         </div>
@@ -311,9 +311,9 @@
                     logistics in the process.
                   </p>
                   <a
-                    href="mailto:info@expresscustomsbrokers.co.nz?subject=Get quote"
+                    href="mailto:info@expresscustomsbrokers.co.nz?subject=Get A Quote"
                     class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-2-base u-btn-1"
-                    >Get Quote</a
+                    >Get A Quote</a
                   >
                 </div>
               </div>
@@ -357,9 +357,9 @@
               with clients from variety of sectors.&nbsp;
             </p>
             <a
-              href="mailto:info@expresscustomsbrokers.co.nz?subject=Get quote"
+              href="mailto:info@expresscustomsbrokers.co.nz?subject=Get A Quote"
               class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1"
-              >Get Quote</a
+              >Get A Quote</a
             >
           </div>
         </div>

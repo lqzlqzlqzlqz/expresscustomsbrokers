@@ -23,6 +23,12 @@ export default [
         meta: { title: "FAQ" },
         component: () => import("../views/Faq/index.vue"),
     },
+    {
+        path: "/customs_clearance",
+        name: "Customs Clearance",
+        meta: { title: "Customs Clearance" },
+        component: () => import("../views/CustomsClearance/index.vue"),
+    },
     // {
     //     path: "/services",
     //     name: "Services",

@@ -16,20 +16,19 @@
             </h2>
             <p class="u-text u-text-2">
               Air Freight is a fast, efficient and safe way to transport goods
-              from and to anywhere of the world. &nbsp;Sending heavy freight
-              shipment is simple and economical. &nbsp;&nbsp;<br />
+              from and to anywhere in the world. &nbsp;&nbsp;<br />
               <br />Express Customs Brokers Ltd can assist with all your air
-              cargo handling and documentation requirements. We use the most
-              appropriate combination of rate &amp; transit time.
+              cargo handling and documentation requirements. We offer a very
+              competitive rate, with the best combination of cost & transit time.
               &nbsp;&nbsp;<br />
               <br />Our professional team have extensive experience in working
-              with clients from variety of sectors.&nbsp;
+              with clients from a variety of sectors.&nbsp;
             </p>
             <a
               href="javascript:void(0)"
               @click="showForm = true"
               class="u-btn u-button-style u-hover-palette-1-dark-1 u-palette-1-base u-btn-1"
-              >Get Quote</a
+              >Get A Quote</a
             >
           </div>
         </div>

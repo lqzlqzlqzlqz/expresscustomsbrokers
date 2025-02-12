@@ -300,24 +300,24 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               >
                 <div class="u-container-layout u-container-layout-2">
                   <h2 class="u-custom-font u-font-oswald u-text u-text-1">
-                    About Express Customers Broker
+                    About Express Customs Brokers Ltd
                   </h2>
                   <h4 class="u-custom-font u-font-courier-new u-text u-text-2">
-                    &nbsp;delivers the goods
+                    &nbsp;We delivers A-Class service.
                   </h4>
                   <p class="u-text u-text-3">
                     We are best known for our schedule. We price by the
                     hundredweight or by the skid and deliver industry-leading
-                    transit times to and from New Zealand. It’s how our business
-                    started… and we do so much more!<br />
-                    <br />Express Customs Broker Ltd&nbsp;is a full-service
-                    import-export company, with over ten years
-                    of&nbsp;experience as a premier global company.&nbsp;
+                    transit times to and from New Zealand. It's what our
+                    business was built on and we do so much more!<br />
+                    <br />Express Customs Brokers Ltd is a company offering
+                    full-importation & exportation services, with over ten years
+                    of experience as a premier global company. &nbsp;
                     <br />
-                    <br />&nbsp;Making life easier for the shipping community is
-                    a core company value.&nbsp;Our best-in-class support staff
-                    will provide you with high-quality client relations to
-                    deliver an unparalleled experience.<br />
+                    <br />One of the company's core values is to make life
+                    easier for the importing community. Our supportive
+                    staff will provide you with a world-class one-stop service
+                    and deliver unparalleled customer experience.<br />
                   </p>
                 </div>
               </div>
@@ -352,7 +352,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                   Import/Export
                 </h2>
                 <p class="u-text u-text-body-alt-color u-text-2">
-                  We are committed to our customer’s success and satisfaction,
+                  We are committed to our customer's success and satisfaction,
                   with us you get great service wherever your cargo comes
                   from!&nbsp;Whether you are looking for import or export
                   clearance, our experts can guide you through the process.<br />
@@ -378,7 +378,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                   Sea Freight
                 </h2>
                 <p class="u-text u-text-body-alt-color u-text-4">
-                  Sea freight is affordable and reliable, it’s the most used
+                  Sea freight is affordable and reliable. It's the most used
                   shipping method in the world. Our team is here to provide you
                   hassle free services. We not only connect your business
                   globally, but also simplify your end-to-end logistics in the
@@ -425,13 +425,13 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
             <h2
               class="u-align-center-lg u-align-center-md u-align-center-xs u-text u-text-black u-text-1"
             >
-              Contact Us Now To Get Quote For All Your Global Shipping Needs
+              Contact Us Now To Get A Quote For All Your Global Shipping Needs
             </h2>
             <a
               href="javascript:void(0)"
               @click="showMailFormConfig('info@expresscustomsbrokers.co.nz')"
               class="u-btn u-button-style u-custom-font u-font-courier-new u-palette-1-base u-btn-1"
-              >Get Quote</a
+              >Get A Quote</a
             >
           </div>
         </div>
@@ -455,7 +455,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
             <h2 class="u-text u-text-1">Service List and More...</h2>
           </div>
         </div>
-        <div
+        <!-- <div
           class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-layout-grid u-list u-list-1"
         >
           <div class="u-repeater u-repeater-1">
@@ -858,6 +858,558 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               </div>
             </div>
           </div>
+        </div> -->
+        <div
+          class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-layout-grid u-list u-list-1"
+        >
+          <div class="u-repeater u-repeater-1">
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-1"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-2"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-1"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 64 64"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path
+                      d="M32 2L2 12c0 15.5 10.5 28.5 30 38 19.5-9.5 30-22.5 30-38L32 2z"
+                      fill="#2196f3"
+                    />
+                    <path
+                      d="M32 2v30c0 8.5-6.5 15-15 15s-15-6.5-15-15V12"
+                      fill="none"
+                      stroke="#fff"
+                      stroke-width="2"
+                    />
+                    <path
+                      d="M32 2v30c0 8.5 6.5 15 15 15s15-6.5 15-15V12"
+                      fill="none"
+                      stroke="#fff"
+                      stroke-width="2"
+                    />
+                    <path
+                      d="M20 30l5 5 10-10"
+                      fill="none"
+                      stroke="#fff"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-2">
+                  Customs Clearance<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-2"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-3"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-2"
+                  ><svg
+                    class="u-svg-link"
+                    preserveAspectRatio="xMidYMin slice"
+                    viewBox="0 0 200 200"
+                    style=""
+                  >
+                    <use xlink:href="#svg-a916"></use></svg
+                  ><svg
+                    class="u-svg-content"
+                    viewBox="0 0 200 200"
+                    id="svg-a916"
+                  >
+                    <path
+                      d="M177.6,80.43a10,10,0,1,0-19.5,4.5,60.76,60.76,0,0,1-6,44.5c-16.5,28.5-53.5,38.5-82,22-28.5-16-38.5-53-22-81.5s53.5-38.5,82-22a9.86,9.86,0,1,0,10-17c-38.5-22.5-87-9.5-109.5,29a80.19,80.19,0,1,0,147,20.5Zm-109.5,11a10.12,10.12,0,0,0-11,17l40,25a10.08,10.08,0,0,0,5.5,1.5,10.44,10.44,0,0,0,8-4l52.5-67.5c3.5-4.5,2.5-10.5-2-14s-10.5-2.5-14,2l-47,60Z"
+                    ></path>
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-3">
+                  Import & Export documentation preparation<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-3"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-4"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-3"
+                  ><svg
+                    class="u-svg-link"
+                    preserveAspectRatio="xMidYMin slice"
+                    viewBox="0 0 100.4 100.4"
+                    style=""
+                  >
+                    <use xlink:href="#svg-53d6"></use></svg
+                  ><svg
+                    class="u-svg-content"
+                    viewBox="0 0 100.4 100.4"
+                    id="svg-53d6"
+                    style="enable-background: new 0 0 100.4 100.4"
+                  >
+                    <g>
+                      <path
+                        d="M79.1,10.1H63.2V3.3c0-0.8-0.7-1.5-1.5-1.5H38c-0.8,0-1.5,0.7-1.5,1.5v6.8H19.7c-3.5,0-6.3,2.8-6.3,6.3v75.4   c0,3.5,2.8,6.3,6.3,6.3h59.5c3.5,0,6.3-2.8,6.3-6.3V16.4C85.4,12.9,82.6,10.1,79.1,10.1z M38,29.5h23.7c0.8,0,1.5-0.7,1.5-1.5v-6.5   h10.5v64.7H25.1V21.6h11.4V28C36.5,28.9,37.2,29.5,38,29.5z M60.2,4.8V20c0,0,0,0,0,0s0,0,0,0v6.5H39.5v-6.5c0,0,0,0,0,0s0,0,0,0   v-8.5c0,0,0,0,0,0s0,0,0,0V4.8L60.2,4.8L60.2,4.8z M82.4,91.7c0,1.8-1.5,3.3-3.3,3.3H19.7c-1.8,0-3.3-1.5-3.3-3.3V16.4   c0-1.8,1.5-3.3,3.3-3.3h16.8v5.5H23.6c-0.8,0-1.5,0.7-1.5,1.5v67.7c0,0.8,0.7,1.5,1.5,1.5h51.6c0.8,0,1.5-0.7,1.5-1.5V20.1   c0-0.8-0.7-1.5-1.5-1.5h-12v-5.5h15.9c1.8,0,3.3,1.5,3.3,3.3V91.7z"
+                      ></path>
+                      <path
+                        d="M28.8,46.4c0,0.8,0.7,1.5,1.5,1.5h38.5c0.8,0,1.5-0.7,1.5-1.5s-0.7-1.5-1.5-1.5H30.3C29.5,44.9,28.8,45.6,28.8,46.4z"
+                      ></path>
+                      <path
+                        d="M68.8,55.4H30.3c-0.8,0-1.5,0.7-1.5,1.5s0.7,1.5,1.5,1.5h38.5c0.8,0,1.5-0.7,1.5-1.5S69.6,55.4,68.8,55.4z"
+                      ></path>
+                      <path
+                        d="M68.8,66.4H30.3c-0.8,0-1.5,0.7-1.5,1.5c0,0.8,0.7,1.5,1.5,1.5h38.5c0.8,0,1.5-0.7,1.5-1.5C70.3,67.1,69.6,66.4,68.8,66.4z   "
+                      ></path>
+                    </g>
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-4">
+                  Import & Export Customs clearance<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-4"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-5"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-3"
+                  ><svg
+                    class="u-svg-link"
+                    preserveAspectRatio="xMidYMin slice"
+                    viewBox="0 0 24 20.86"
+                    style=""
+                  >
+                    <use xlink:href="#svg-e58c"></use></svg
+                  ><svg
+                    class="u-svg-content"
+                    viewBox="0 0 24 20.86"
+                    id="svg-e58c"
+                  >
+                    <g id="Camada_2">
+                      <g id="Camada_1-2">
+                        <path
+                          d="M23.5,3.86H16.81V1.5A1.5,1.5,0,0,0,15.31,0H8.69a1.5,1.5,0,0,0-1.5,1.5V3.86H.5a.5.5,0,0,0-.5.5v6a2.5,2.5,0,0,0,1.5,2.29v7.71a.5.5,0,0,0,.5.5H22a.5.5,0,0,0,.5-.5V12.65A2.5,2.5,0,0,0,24,10.36v-6A.5.5,0,0,0,23.5,3.86ZM8.19,1.5a.5.5,0,0,1,.5-.5h6.63a.5.5,0,0,1,.5.5V3.86H8.19ZM21.5,19.86H2.5v-7H5v.6A1.5,1.5,0,0,0,6.48,15h1A1.5,1.5,0,0,0,9,13.46v-.6h6v.6a1.5,1.5,0,0,0,1.5,1.5h1a1.5,1.5,0,0,0,1.5-1.5v-.6H21.5ZM6,12.36H6v-.81H8v1.9a.5.5,0,0,1-.5.5h-1a.5.5,0,0,1-.5-.5Zm12,1.1a.5.5,0,0,1-.5.5h-1a.5.5,0,0,1-.5-.5v-1.9h2Zm5-3.1a1.5,1.5,0,0,1-1.5,1.5H19v-.81a.5.5,0,0,0-.5-.5h-3a.5.5,0,0,0-.5.5v.81H9v-.81a.5.5,0,0,0-.5-.5h-3a.5.5,0,0,0-.5.5v.81H2.5A1.5,1.5,0,0,1,1,10.36V4.86H23Z"
+                        ></path>
+                      </g>
+                    </g>
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-5">
+                  Personal effects Customs & MPI clearance<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-5"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-6"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-5"
+                  ><svg
+                    class="u-svg-link"
+                    preserveAspectRatio="xMidYMin slice"
+                    viewBox="0 0 64 64"
+                    style=""
+                  >
+                    <use xlink:href="#svg-af5c"></use></svg
+                  ><svg
+                    class="u-svg-content"
+                    viewBox="0 0 64 64"
+                    id="svg-af5c"
+                    style="enable-background: new 0 0 64 64"
+                  >
+                    <g>
+                      <path
+                        d="M58,15h-1V9H44.63C42.377,4.278,37.571,1,32,1S21.623,4.278,19.37,9H7v6H6c-2.757,0-5,2.243-5,5v32c0,2.757,2.243,5,5,5h13   v4h-4v2h34v-2h-4v-4h13c2.757,0,5-2.243,5-5V20C63,17.243,60.757,15,58,15z M9,33h46v10H9V33z M43.605,12h-3.127   c-1.332,0-2.583-0.519-3.524-1.46l-0.494-0.494C35.142,8.727,33.388,8,31.521,8c-1.809,0-3.479-0.982-4.357-2.563   c-0.214-0.385-0.333-0.805-0.363-1.235C28.377,3.44,30.136,3,32,3C37.58,3,42.268,6.833,43.605,12z M24.976,5.291   c0.105,0.385,0.242,0.761,0.44,1.117C26.647,8.624,28.986,10,31.521,10c1.332,0,2.583,0.519,3.524,1.46l0.494,0.494   C36.858,13.273,38.612,14,40.479,14h3.471C43.977,14.331,44,14.662,44,15c0,0.717-0.075,1.415-0.196,2.098   C42.558,16.385,41.142,16,39.692,16c-2.047,0-3.861,1.228-4.621,3.129C34.617,20.266,33.532,21,32.308,21h-1   c-1.782,0-3.438,0.961-4.321,2.508l-0.871,1.524c-0.059,0.103-0.105,0.212-0.161,0.317c-0.571-0.335-1.118-0.708-1.624-1.13   l0.756-1.701C26.036,20.381,28.161,19,30.5,19c1.93,0,3.5-1.57,3.5-3.5S32.43,12,30.5,12h-1.315c-1.731,0-3.371-0.754-4.498-2.069   l-1.976-2.304c-0.027-0.032-0.06-0.063-0.088-0.095C23.302,6.682,24.095,5.931,24.976,5.291z M43.251,19.134   C41.561,23.717,37.163,27,32,27c-1.495,0-2.922-0.287-4.243-0.789c0.034-0.062,0.06-0.127,0.095-0.188l0.87-1.523   c0.528-0.925,1.52-1.5,2.585-1.5h1c2.047,0,3.861-1.228,4.621-3.129C37.383,18.734,38.468,18,39.692,18   C40.97,18,42.203,18.412,43.251,19.134z M21.47,9.252l1.698,1.981C24.676,12.991,26.868,14,29.185,14H30.5   c0.827,0,1.5,0.673,1.5,1.5S31.327,17,30.5,17c-3.128,0-5.971,1.847-7.242,4.707l-0.444,0.999C21.061,20.619,20,17.932,20,15   C20,12.919,20.534,10.96,21.47,9.252z M18.59,11C18.21,12.269,18,13.61,18,15c0,7.72,6.28,14,14,14s14-6.28,14-14   c0-1.39-0.21-2.731-0.59-4H55v20H9V11H18.59z M6,17h1v28h50V17h1c1.654,0,3,1.346,3,3v27H3V20C3,18.346,4.346,17,6,17z M43,61H21   v-4h22V61z M58,55H6c-1.654,0-3-1.346-3-3v-3h58v3C61,53.654,59.654,55,58,55z"
+                      ></path>
+                      <rect height="2" width="2" x="26" y="51"></rect>
+                      <rect height="2" width="4" x="30" y="51"></rect>
+                      <rect height="2" width="2" x="36" y="51"></rect>
+                      <polygon
+                        points="17,35 15,35 15,37 11,37 11,39 15,39 15,41 17,41 17,39 53,39 53,37 17,37  "
+                      ></polygon>
+                      <rect height="2" width="2" x="51" y="13"></rect>
+                      <rect height="2" width="2" x="11" y="13"></rect>
+                    </g>
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-6">
+                  Online shopping/shipment Customs clearance<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-6"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-7"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-6"
+                  ><svg
+                    class="u-svg-link"
+                    preserveAspectRatio="xMidYMin slice"
+                    viewBox="0 0 64 64"
+                    style=""
+                  >
+                    <use xlink:href="#svg-0add"></use></svg
+                  ><svg class="u-svg-content" viewBox="0 0 64 64" id="svg-0add">
+                    <g id="Icons">
+                      <path
+                        d="M37.751,31.474a5.183,5.183,0,0,1-3.072-1,3.18,3.18,0,0,1-.345-.271,1,1,0,1,1,1.332-1.492,1.43,1.43,0,0,0,.157.123,3.268,3.268,0,0,0,4.23-.3l21-21a3.255,3.255,0,0,0,0-4.588A3.294,3.294,0,0,0,58.76,2a3.224,3.224,0,0,0-2.293.947l-20.76,20.76a1,1,0,0,1-1.414-1.414l20.76-20.76a5.242,5.242,0,1,1,7.414,7.414l-21,21A5.252,5.252,0,0,1,37.751,31.474Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M59,36h-.644a4.992,4.992,0,0,1-4.924-4.131L51.015,18.174a1,1,0,0,1,1.97-.348l2.417,13.7A2.994,2.994,0,0,0,58,33.979V11a1,1,0,0,1,2,0V35A1,1,0,0,1,59,36Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M46,13a.95.95,0,0,1-.175-.016L32.131,10.567A4.99,4.99,0,0,1,28,5.645V5a1,1,0,0,1,1-1H53a1,1,0,0,1,0,2H30.021a3,3,0,0,0,2.458,2.6l13.7,2.417A1,1,0,0,1,46,13Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M40.034,39.236a2.939,2.939,0,0,1-1.045-.191,3.017,3.017,0,0,1-1.726-1.691l-2.922-7.313A1,1,0,0,1,36.2,29.3l2.92,7.31a1,1,0,0,0,.578.566,1.039,1.039,0,0,0,.3.064V29a1,1,0,0,1,2,0v9a1,1,0,0,1-.55.893A3.164,3.164,0,0,1,40.034,39.236Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M59.648,64h-19.3a4.349,4.349,0,0,1-3.889-6.294l9.648-19.3a4.348,4.348,0,0,1,7.778,0l9.648,19.3A4.349,4.349,0,0,1,59.648,64ZM50,38a2.3,2.3,0,0,0-2.1,1.3h0L38.252,58.6a2.348,2.348,0,0,0,2.1,3.4h19.3a2.348,2.348,0,0,0,2.1-3.4L52.1,39.3A2.3,2.3,0,0,0,50,38Zm-2.994.852h0Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M50,56a1,1,0,0,1-1-1V45a1,1,0,0,1,2,0V55A1,1,0,0,1,50,56Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M50,60a1,1,0,0,1-.38-.07,1.461,1.461,0,0,1-.33-.22A.99.99,0,0,1,49,59a1.05,1.05,0,0,1,.29-.71.933.933,0,0,1,.33-.21.991.991,0,0,1,.76,0,.933.933,0,0,1,.33.21A1.05,1.05,0,0,1,51,59a.99.99,0,0,1-1,1Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M31,64H1a1,1,0,0,1-1-1V19a1,1,0,0,1,1-1H31a1,1,0,0,1,1,1V63A1,1,0,0,1,31,64ZM2,62H30V20H2Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M16,44A10,10,0,1,1,26,34,10.011,10.011,0,0,1,16,44Zm0-18a8,8,0,1,0,8,8A8.009,8.009,0,0,0,16,26Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M25,54H7a1,1,0,0,1,0-2H25a1,1,0,0,1,0,2Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M21,58H7a1,1,0,0,1,0-2H21a1,1,0,0,1,0,2Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M16,38c-.973,0-2-.034-3.063-.1a48.189,48.189,0,0,1-5.847-.705,1,1,0,1,1,.36-1.966,46.737,46.737,0,0,0,5.609.675,46.714,46.714,0,0,0,5.879.01,49.2,49.2,0,0,0,5.612-.685,1,1,0,1,1,.36,1.966,50.926,50.926,0,0,1-5.845.715C18.081,37.969,17.05,38,16,38Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M24.731,32.79a.932.932,0,0,1-.181-.017,46.737,46.737,0,0,0-5.609-.675,46.9,46.9,0,0,0-5.879-.01,49.2,49.2,0,0,0-5.612.685,1,1,0,1,1-.36-1.966,50.926,50.926,0,0,1,5.845-.715,49.163,49.163,0,0,1,6.128.01,48.189,48.189,0,0,1,5.847.7,1,1,0,0,1-.179,1.983Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M14,43.78a1,1,0,0,1-.974-.775,40.069,40.069,0,0,1,0-18.01,1,1,0,0,1,1.95.449,38.029,38.029,0,0,0,0,17.112,1,1,0,0,1-.75,1.2A1.03,1.03,0,0,1,14,43.78Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M18,43.78a1.03,1.03,0,0,1-.226-.025,1,1,0,0,1-.75-1.2A38.073,38.073,0,0,0,18,34a38.08,38.08,0,0,0-.975-8.556A1,1,0,0,1,18.975,25,40.131,40.131,0,0,1,20,34a40.124,40.124,0,0,1-1.025,9.005A1,1,0,0,1,18,43.78Z"
+                        style="fill: currentColor"
+                      ></path>
+                      <path
+                        d="M25,58a1,1,0,0,1-.38-.08,1.155,1.155,0,0,1-.33-.21A.99.99,0,0,1,24,57a1.05,1.05,0,0,1,.29-.71,1.576,1.576,0,0,1,.15-.12.757.757,0,0,1,.18-.09.636.636,0,0,1,.18-.06,1.009,1.009,0,0,1,.91.27A1.05,1.05,0,0,1,26,57a.99.99,0,0,1-1,1Z"
+                        style="fill: currentColor"
+                      ></path>
+                    </g>
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-7">
+                  Importer & Exporter code/client code application<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-7"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-8"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-7"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 64 64"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <circle
+                      cx="32"
+                      cy="32"
+                      r="30"
+                      stroke="#2196f3"
+                      fill="none"
+                    />
+                    <path
+                      d="M32 2C15.4 2 2 15.4 2 32s13.4 30 30 30 30-13.4 30-30S48.6 2 32 2z"
+                      fill="#e3f2fd"
+                    />
+                    <path
+                      d="M32 12c-11.0 0-20 9-20 20s9 20 20 20 20-9 20-20-9-20-20-20zm0 36c-8.8 0-16-7.2-16-16s7.2-16 16-16 16 7.2 16 16-7.2 16-16 16z"
+                      fill="#2196f3"
+                    />
+                    <path
+                      d="M32 20c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 20c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z"
+                      fill="#fff"
+                    />
+                    <path
+                      d="M40 28h-8v-8h-4v8h-8v4h8v8h4v-8h8z"
+                      fill="#2196f3"
+                    />
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-8">
+                  Overseas supplier code application<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-8"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-9"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-7"
+                  ><svg
+                    class="u-svg-link"
+                    preserveAspectRatio="xMidYMin slice"
+                    viewBox="0 0 50 50"
+                    style=""
+                  >
+                    <use xlink:href="#svg-17ea"></use></svg
+                  ><svg
+                    class="u-svg-content"
+                    viewBox="0 0 50 50"
+                    id="svg-17ea"
+                    style="enable-background: new 0 0 50 50"
+                  >
+                    <g id="Layer_1">
+                      <path
+                        d="M29.618,5l-2-4h-5.236l-2,4H17v2H8v42h34V7h-9V5H29.618z M21.618,7l2-4h2.764l2,4H31v4v2H19v-2V7H21.618z M33,15v-2h3v30   H14V13h3v2H33z M40,9v38H10V9h7v2h-5v34h26V11h-5V9H40z"
+                      ></path>
+                      <rect height="2" width="2" x="24" y="6"></rect>
+                      <polygon
+                        points="33.707,22.707 32.293,21.293 22,31.586 18.707,28.293 17.293,29.707 22,34.414  "
+                      ></polygon>
+                    </g>
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-9">
+                  Duty, GST, Drawback application<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-9"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-10"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-9"
+                  ><svg
+                    class="u-svg-link"
+                    preserveAspectRatio="xMidYMin slice"
+                    viewBox="0 0 256 256"
+                    style=""
+                  >
+                    <use xlink:href="#svg-d6eb"></use></svg
+                  ><svg
+                    class="u-svg-content"
+                    viewBox="0 0 256 256"
+                    id="svg-d6eb"
+                    style="enable-background: new 0 0 256 256"
+                  >
+                    <g>
+                      <path
+                        d="M30.3,117.3c4.9,5.2,11.1,9.2,17.8,11.6c2.3,0.8,4.7,1.5,7.2,1.9c2.4,0.5,4.9,0.7,7.4,0.8c0.4,0,0.8,0,1.2,0   c6.7,0,13.5-1.5,19.6-4.3c4.6-2.1,8.8-5,12.4-8.5c5.2-5,9.3-11.1,11.7-17.9c0.9-2.4,1.5-4.8,2-7.3c0.5-2.5,0.7-5.1,0.8-7.6   c0.2-7.1-1.4-14.3-4.4-20.8c-2.2-4.6-5.1-8.8-8.6-12.5c-4.9-5.1-11.1-9.1-17.8-11.5c-2.3-0.8-4.7-1.5-7.2-1.9   c-2.5-0.5-4.9-0.7-7.4-0.8c-7.1-0.2-14.3,1.3-20.8,4.3c-4.6,2.2-8.8,5-12.5,8.5c-5.2,4.9-9.2,11.1-11.6,17.8   c-0.9,2.4-1.5,4.8-2,7.3c-0.5,2.5-0.7,5-0.8,7.5c-0.2,7.2,1.4,14.4,4.5,20.9C24,109.5,26.8,113.7,30.3,117.3z M28.1,78.4   c0.4-2,0.9-3.9,1.6-5.8c1.9-5.2,5-10,9.1-13.9c2.9-2.8,6.2-5,9.8-6.7c4.8-2.2,10.1-3.4,15.3-3.4c0.3,0,0.6,0,0.9,0   c1.9,0,3.9,0.3,5.8,0.6c1.9,0.4,3.8,0.9,5.6,1.5c5.2,1.9,10.1,5,13.9,9c2.8,2.9,5,6.2,6.7,9.8c2.4,5,3.6,10.7,3.4,16.2   c0,2-0.3,4-0.6,5.9c0,0,0,0,0,0c-0.4,2-0.9,3.9-1.6,5.7c-1.9,5.3-5.1,10.1-9.2,14c-2.9,2.7-6.1,5-9.7,6.6   c-5.1,2.4-10.8,3.5-16.3,3.4c-1.9,0-3.9-0.3-5.8-0.6c-1.9-0.4-3.8-0.9-5.6-1.5c-5.3-1.9-10.1-5-13.9-9c-2.7-2.9-5-6.1-6.7-9.7   c-2.4-5.1-3.6-10.7-3.5-16.3C27.5,82.3,27.7,80.3,28.1,78.4z"
+                      ></path>
+                      <path
+                        d="M56.8,91.9c1,1.1,2.3,1.9,3.7,2.4c0.5,0.2,1,0.3,1.5,0.4c0.5,0.1,1,0.2,1.6,0.2c1.5,0,3-0.3,4.4-0.9c1-0.4,1.8-1,2.6-1.8   c1.1-1,1.9-2.3,2.5-3.8c0.2-0.5,0.3-1,0.4-1.5c0.1-0.5,0.2-1.1,0.2-1.6c0-0.7-0.1-1.4-0.2-2l9.9-8.9c2.1-1.9,2.2-5.1,0.4-7.2   c-1.9-2.1-5.1-2.2-7.2-0.4l-9.9,8.9c-0.3-0.1-0.7-0.2-1-0.3c-0.5-0.1-1-0.2-1.6-0.2c-1.5,0-3,0.3-4.4,0.9c-1,0.5-1.9,1.1-2.6,1.8   c-1.1,1-1.9,2.3-2.4,3.7c-0.2,0.5-0.3,1-0.4,1.5c-0.1,0.5-0.2,1.1-0.2,1.6c0,1.6,0.3,3.1,0.9,4.4C55.5,90.2,56.1,91.1,56.8,91.9z"
+                      ></path>
+                      <path
+                        d="M236.8,127.4h-22l-20.2-46.2c-1.5-3.4-4.9-5.6-8.6-5.6h-56.5c-2.8,0-5.1,2.3-5.1,5.1v64.1H8.4c-2.8,0-5.1,2.3-5.1,5.1v38.9   c0,5.2,4.2,9.4,9.4,9.4h14.6c2.8,0,5.1-2.3,5.1-5.1c0-2.8-2.3-5.1-5.1-5.1H13.5v-33.1h116c2.8,0,5.1-2.3,5.1-5.1V85.6h50.9   l18.7,42.8l2.7,6c0.8,1.8,2.6,3,4.6,3h25.3c3.2,0,5.7,2.6,5.7,5.7v44.7h-13.8c-2.8,0-5.1,2.3-5.1,5.1c0,2.8,2.3,5.1,5.1,5.1h14.5   c5.2,0,9.4-4.2,9.4-9.4v-45.4C252.7,134.5,245.5,127.4,236.8,127.4z"
+                      ></path>
+                      <path
+                        d="M162.7,187.9H93.3c-2.8,0-5.1,2.3-5.1,5.1c0,2.8,2.3,5.1,5.1,5.1h69.3c2.8,0,5.1-2.3,5.1-5.1   C167.7,190.2,165.5,187.9,162.7,187.9z"
+                      ></path>
+                      <path
+                        d="M79.3,190.5c-1.4-4-4.1-7.5-7.7-9.9c-0.1-0.1-0.3-0.2-0.4-0.3l-2.7-1.4c-0.2-0.1-0.4-0.2-0.5-0.2c-0.3-0.1-0.6-0.2-1.2-0.4   l-1.9-0.6c-0.5-0.1-1-0.2-1.4-0.3c-0.5-0.1-1.1-0.1-1.8-0.2l-1.6,0l-1.4,0.1c-0.5,0-1,0.1-1.5,0.2c-0.5,0.1-0.9,0.2-1.4,0.3   c-0.1,0-0.1,0-0.2,0l-1.3,0.3c-0.4,0.1-0.8,0.3-1.4,0.5l-1.3,0.6c-4.8,2.3-8.6,6.5-10.4,11.4c0,0.1-0.2,0.5-0.2,0.6   c-0.7,2-1,4.1-1,6.2c0,11.1,9,20.2,20.2,20.2c11.1,0,20.2-9,20.2-20.2c0-2.1-0.3-4.1-1-6.3L79.3,190.5z M60.3,207.4   c-5.5,0-10-4.5-10-10c0-1,0.2-2.1,0.4-2.8c0,0,0.2-0.5,0.2-0.5c0.9-2.5,2.8-4.6,5-5.7l2.3-0.8c0.2,0,0.3-0.1,0.6-0.1   c0.3,0,0.5-0.1,0.5-0.1l0.8,0l0.9,0c0.3,0,0.5,0.1,0.9,0.1c0.2,0,0.4,0.1,0.4,0.1l1.4,0.4l2.4,1.3c1.7,1.2,3,2.9,3.7,4.9l0.1,0.3   c0.3,0.9,0.5,2,0.5,3C70.3,202.9,65.8,207.4,60.3,207.4z"
+                      ></path>
+                      <path
+                        d="M214.7,190.6c-1.5-4.1-4.1-7.6-7.7-10c-0.2-0.1-0.4-0.2-0.5-0.3l-3.4-1.7c-0.3-0.1-0.6-0.3-0.9-0.3l-1.9-0.5   c-0.5-0.1-1-0.2-1.4-0.3c-0.5-0.1-1-0.1-1.9-0.2l-2.1,0c-0.2,0-0.3,0-0.5,0c-0.8,0.1-1.3,0.1-1.7,0.2c-0.5,0.1-0.9,0.2-1.4,0.3   c-0.1,0-0.1,0-0.2,0l-1.3,0.3c-0.4,0.1-0.7,0.2-1.3,0.5l-1.3,0.6c-4.8,2.3-8.7,6.5-10.4,11.4c0,0.1-0.2,0.6-0.2,0.6   c-0.7,2-1,4.1-1,6.2c0,11.1,9,20.2,20.2,20.2c11.1,0,20.2-9,20.2-20.2c0-2.1-0.3-4.2-1.1-6.4L214.7,190.6z M195.7,207.4   c-5.5,0-10-4.5-10-10c0-1.1,0.2-2.1,0.4-2.8c0-0.1,0.2-0.5,0.2-0.5c0.9-2.5,2.8-4.6,5-5.7l2.3-0.8c0.2,0,0.4-0.1,0.6-0.1   c0.2,0,0.5-0.1,0.8-0.1h1.5c0.3,0,0.6,0.1,0.8,0.1c0.2,0,0.4,0.1,0.4,0.1l1.2,0.3l2.6,1.3c1.7,1.2,2.9,2.9,3.7,5l0.1,0.1   c0.3,1,0.5,2,0.5,3C205.7,202.9,201.2,207.4,195.7,207.4z"
+                      ></path>
+                    </g>
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-10">
+                  Import & Export licensing<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-10"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-11"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-9"
+                  ><svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 64 64"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path
+                      d="M32 2C15.4 2 2 15.4 2 32s13.4 30 30 30 30-13.4 30-30S48.6 2 32 2z"
+                      fill="#e3f2fd"
+                    />
+                    <path
+                      d="M32 12c-11.0 0-20 9-20 20s9 20 20 20 20-9 20-20-9-20-20-20zm0 36c-8.8 0-16-7.2-16-16s7.2-16 16-16 16 7.2 16 16-7.2 16-16 16z"
+                      fill="#2196f3"
+                    />
+                    <path
+                      d="M40 28c-4.4 0-8 3.6-8 8s3.6 8 8 8 8-3.6 8-8-3.6-8-8-8zm0 12c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"
+                      fill="#fff"
+                    />
+                    <path d="M24 28h16v4H24z" fill="#fff" />
+                    <path d="M24 36h16v4H24z" fill="#fff" />
+                    <path d="M24 44h16v4H24z" fill="#fff" />
+                    <path
+                      d="M20 20l-4 4 4 4"
+                      fill="none"
+                      stroke="#2196f3"
+                      stroke-width="2"
+                    />
+                    <path
+                      d="M20 20l4 4-4 4"
+                      fill="none"
+                      stroke="#2196f3"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-9">
+                  Customs & MPI inspections<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-11"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-12"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-9"
+                  ><svg
+                    class="u-svg-link"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path d="M1 1h4l1 4h12l1-4h4v14h-4l-1-4H6l-1 4H1V1z" />
+                    <circle cx="6" cy="18" r="2" />
+                    <circle cx="18" cy="18" r="2" />
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-9">
+                  Freight forwarding & logistics<br />
+                </p>
+              </div>
+            </div>
+            <div
+              class="u-container-style u-custom-color-2 u-list-item u-repeater-item u-list-item-12"
+              title="Services"
+            >
+              <div
+                class="u-container-layout u-similar-container u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-13"
+              >
+                <span
+                  class="u-icon u-icon-rounded u-palette-1-base u-radius-10 u-icon-8"
+                  ><svg
+                    class="u-svg-link"
+                    preserveAspectRatio="xMidYMin slice"
+                    viewBox="0 0 128 128"
+                    style=""
+                  >
+                    <use xlink:href="#svg-e800"></use></svg
+                  ><svg
+                    class="u-svg-content"
+                    viewBox="0 0 128 128"
+                    id="svg-e800"
+                    style="enable-background: new 0 0 128 128"
+                  >
+                    <g>
+                      <path
+                        d="M106.649,66.24L103,63.121V2c0-0.552-0.448-1-1-1H26c-0.552,0-1,0.448-1,1v17h-3c-0.552,0-1,0.448-1,1v106   c0,0.552,0.448,1,1,1h84c0.552,0,1-0.448,1-1V67C107,66.708,106.872,66.43,106.649,66.24z M101,9H27V7h74V9z M27,11h74v2H27V11z    M101,3v2H27V3H101z M27,15h74v46.412L51.649,19.24C51.469,19.085,51.238,19,51,19H27V15z M105,125H23V21h27.631L105,67.461V125z"
+                      ></path>
+                      <path
+                        d="M36,96v13c0,1.654,1.346,3,3,3h50c1.654,0,3-1.346,3-3V96c0-1.654-1.346-3-3-3H39C37.346,93,36,94.346,36,96z M90,96v13   c0,0.551-0.449,1-1,1H39c-0.551,0-1-0.449-1-1V96c0-0.551,0.449-1,1-1h50C89.551,95,90,95.449,90,96z"
+                      ></path>
+                      <path
+                        d="M41,101h45c0.552,0,1-0.448,1-1s-0.448-1-1-1H41c-0.552,0-1,0.448-1,1S40.448,101,41,101z"
+                      ></path>
+                      <path
+                        d="M41,107h45c0.552,0,1-0.448,1-1s-0.448-1-1-1H41c-0.552,0-1,0.448-1,1S40.448,107,41,107z"
+                      ></path>
+                    </g>
+                  </svg>
+                </span>
+                <p class="u-text u-text-black u-text-9">
+                  ATF arrangement cartridge & delivery<br />
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -918,13 +1470,20 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                             ></path>
                           </g></svg
                       ></span>
-                      <h2 class="u-text u-text-3">Respectful</h2>
+                      <!-- <h2 class="u-text u-text-3">Respectful</h2> -->
+                      <h2 class="u-text u-text-3">Hassel-free</h2>
                       <p class="u-text u-text-4">
-                        We treat our customers, employees and business partners
+                        <!-- We treat our customers, employees and business partners
                         with respect and our relationship with them is based on
                         an open dialogue. We keep our word and our promises. For
                         us, respect and trust form the basis for working
-                        successfully with others.
+                        successfully with others. -->
+                        It can be nerve-racking having to deal with different
+                        government agencies, filing paper work and completing
+                        clearances on your own, especially if you do not know
+                        what you are doing. Leave it with us. Let the experts
+                        deal with all that! We will make your clearance process
+                        hassle free!
                       </p>
                     </div>
                   </div>
@@ -953,52 +1512,109 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                             d="M60.046,11.196c0.004-0.024,0.011-0.048,0.013-0.072c0.007-0.074-0.001-0.149-0.01-0.224  c-0.002-0.019,0.001-0.037-0.002-0.056c-0.018-0.099-0.051-0.196-0.1-0.289c-0.008-0.016-0.019-0.031-0.028-0.047  c-0.002-0.002-0.002-0.005-0.003-0.008c-0.001-0.002-0.004-0.003-0.005-0.006c-0.007-0.011-0.013-0.023-0.02-0.033  c-0.062-0.091-0.137-0.166-0.221-0.23c-0.019-0.014-0.041-0.022-0.061-0.035c-0.074-0.049-0.152-0.089-0.236-0.116  c-0.037-0.012-0.074-0.018-0.112-0.025c-0.073-0.015-0.146-0.022-0.222-0.02c-0.04,0.001-0.078,0.003-0.118,0.009  c-0.026,0.004-0.051,0-0.077,0.006L0.798,22.046c-0.413,0.086-0.729,0.421-0.788,0.839s0.15,0.828,0.523,1.025l16.632,8.773  l2.917,16.187c-0.002,0.012,0.001,0.025,0,0.037c-0.01,0.08-0.011,0.158-0.001,0.237c0.005,0.04,0.01,0.078,0.02,0.117  c0.023,0.095,0.06,0.184,0.11,0.268c0.01,0.016,0.01,0.035,0.021,0.051c0.003,0.005,0.008,0.009,0.012,0.013  c0.013,0.019,0.031,0.034,0.046,0.053c0.047,0.058,0.096,0.111,0.152,0.156c0.009,0.007,0.015,0.018,0.025,0.025  c0.015,0.011,0.032,0.014,0.047,0.024c0.061,0.04,0.124,0.073,0.191,0.099c0.027,0.01,0.052,0.022,0.08,0.03  c0.09,0.026,0.183,0.044,0.277,0.044c0.001,0,0.002,0,0.003,0h0c0,0,0,0,0,0c0.004,0,0.008-0.002,0.012-0.002  c0.017,0.001,0.034,0.002,0.051,0.002c0.277,0,0.527-0.124,0.712-0.315l11.079-7.386l11.6,7.54c0.164,0.106,0.354,0.161,0.545,0.161  c0.105,0,0.212-0.017,0.315-0.051c0.288-0.096,0.518-0.318,0.623-0.604l13.996-37.989c0.013-0.034,0.024-0.069,0.033-0.105  c0.004-0.015,0.005-0.03,0.008-0.044C60.042,11.22,60.044,11.208,60.046,11.196z M48.464,17.579L24.471,35.22  c-0.039,0.029-0.07,0.065-0.104,0.099c-0.013,0.012-0.026,0.022-0.037,0.035c-0.021,0.023-0.04,0.046-0.059,0.071  c-0.018,0.024-0.032,0.049-0.048,0.074c-0.037,0.06-0.068,0.122-0.092,0.188c-0.005,0.013-0.013,0.023-0.017,0.036  c-0.001,0.004-0.005,0.006-0.006,0.01l-2.75,8.937l-2.179-12.091L48.464,17.579z M22.908,46.594l2.726-9.004l4.244,2.759  l1.214,0.789l-4.124,2.749L22.908,46.594z M52.044,13.498L18.071,30.899l-14.14-7.458L52.044,13.498z M44.559,47.504L29.154,37.492  l-2.333-1.517l30.154-22.172L44.559,47.504z"
                           ></path></svg
                       ></span>
-                      <h2 class="u-text u-text-5">Independent</h2>
+                      <!-- <h2 class="u-text u-text-5">Independent</h2> -->
+                      <h2 class="u-text u-text-5">Family-friendly</h2>
                       <p class="u-text u-text-6">
-                        Through our entrepreneurial independence, we develop
-                        transparent, honest and optimal solutions for our
-                        customers.
+                        We are a family owned business. We are friendly and
+                        approachable. We listen. We attend to clients' needs.
                       </p>
                     </div>
                   </div>
                 </div>
               </div>
+              <div class="u-layout-row">
+                <div
+                  class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1"
+                >
+                  <div class="u-container-layout u-valign-top">
+                    <span
+                      class="u-icon u-icon-circle u-text-palette-1-base u-icon-1"
+                      ><svg
+                        class="u-svg-link"
+                        preserveAspectRatio="xMidYMin slice"
+                        viewBox="0 0 60 60"
+                        style=""
+                      >
+                        <use xlink:href="#svg-547b"></use></svg
+                      ><svg
+                        class="u-svg-content"
+                        viewBox="0 0 60 60"
+                        x="0px"
+                        y="0px"
+                        id="svg-547b"
+                        style="enable-background: new 0 0 60 60"
+                      >
+                        <g>
+                          <path
+                            d="M30,0C13.458,0,0,13.458,0,30s13.458,30,30,30s30-13.458,30-30S46.542,0,30,0z M30,58C14.561,58,2,45.439,2,30
+                            S14.561,2,30,2s28,12.561,28,28S45.439,58,30,58z"
+                          ></path>
+                          <path
+                            d="M45,25H20c-0.552,0-1,0.447-1,1s0.448,1,1,1h25c0.552,0,1-0.447,1-1S45.552,25,45,25z"
+                          ></path>
+                          <path
+                            d="M20,19h10c0.552,0,1-0.447,1-1s-0.448-1-1-1H20c-0.552,0-1,0.447-1,1S19.448,19,20,19z"
+                          ></path>
+                          <path
+                            d="M45,33H20c-0.552,0-1,0.447-1,1s0.448,1,1,1h25c0.552,0,1-0.447,1-1S45.552,33,45,33z"
+                          ></path>
+                          <path
+                            d="M45,41H20c-0.552,0-1,0.447-1,1s0.448,1,1,1h25c0.552,0,1-0.447,1-1S45.552,41,45,41z"
+                          ></path>
+                          <path
+                            d="M45,49H20c-0.552,0-1,0.447-1,1s0.448,1,1,1h25c0.552,0,1-0.447,1-1S45.552,49,45,49z"
+                          ></path>
+                        </g></svg
+                    ></span>
+                    <h2 class="u-text u-text-3">One-stop Service</h2>
+                    <p class="u-text u-text-4">
+                      Express Customs Brokers Ltd, offers a one-stop service for
+                      all your importation & exportation needs, from client and
+                      supplier code applications to complicated importation and
+                      exportation clearances, from ATF arrangements to cartage
+                      and freight-forwarding and global logistics operations.
+                    </p>
+                  </div>
+                </div>
+                <div
+                  class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-3"
+                >
+                  <div class="u-container-layout u-valign-top">
+                    <span
+                      class="u-icon u-icon-circle u-text-palette-1-base u-icon-3"
+                      ><svg
+                        class="u-svg-link"
+                        preserveAspectRatio="xMidYMin slice"
+                        viewBox="0 0 60 60"
+                        style=""
+                      >
+                        <use xlink:href="#svg-f3da"></use></svg
+                      ><svg
+                        class="u-svg-content"
+                        viewBox="0 0 60 60"
+                        x="0px"
+                        y="0px"
+                        id="svg-f3da"
+                        style="enable-background: new 0 0 60 60"
+                      >
+                        <path
+                          d="M55.014,45.389l-9.553-4.776C44.56,40.162,44,39.256,44,38.248v-3.381c0.229-0.28,0.47-0.599,0.719-0.951  c1.239-1.75,2.232-3.698,2.954-5.799C49.084,27.47,50,26.075,50,24.5v-4c0-0.963-0.36-1.896-1-2.625v-5.319  c0.056-0.55,0.276-3.824-2.092-6.525C44.854,3.688,41.521,2.5,37,2.5s-7.854,1.188-9.908,3.53c-1.435,1.637-1.918,3.481-2.064,4.805  C23.314,9.949,21.294,9.5,19,9.5c-10.389,0-10.994,8.855-11,9v4.579c-0.648,0.706-1,1.521-1,2.33v3.454  c0,1.079,0.483,2.085,1.311,2.765c0.825,3.11,2.854,5.46,3.644,6.285v2.743c0,0.787-0.428,1.509-1.171,1.915l-6.653,4.173  C1.583,48.134,0,50.801,0,53.703V57.5h14h2h44v-4.043C60,50.019,58.089,46.927,55.014,45.389z M14,53.262V55.5H2v-1.797  c0-2.17,1.184-4.164,3.141-5.233l6.652-4.173c1.333-0.727,2.161-2.121,2.161-3.641v-3.591l-0.318-0.297  c-0.026-0.024-2.683-2.534-3.468-5.955l-0.091-0.396l-0.342-0.22C9.275,29.899,9,29.4,9,28.863v-3.454  c0-0.36,0.245-0.788,0.671-1.174L10,23.938l-0.002-5.38C10.016,18.271,10.537,11.5,19,11.5c2.393,0,4.408,0.553,6,1.644v4.731  c-0.64,0.729-1,1.662-1,2.625v4c0,0.304,0.035,0.603,0.101,0.893c0.027,0.116,0.081,0.222,0.118,0.334  c0.055,0.168,0.099,0.341,0.176,0.5c0.001,0.002,0.002,0.003,0.003,0.005c0.256,0.528,0.629,1,1.099,1.377  c0.005,0.019,0.011,0.036,0.016,0.054c0.06,0.229,0.123,0.457,0.191,0.68l0.081,0.261c0.014,0.046,0.031,0.093,0.046,0.139  c0.035,0.108,0.069,0.215,0.105,0.321c0.06,0.175,0.123,0.356,0.196,0.553c0.031,0.082,0.065,0.156,0.097,0.237  c0.082,0.209,0.164,0.411,0.25,0.611c0.021,0.048,0.039,0.1,0.06,0.147l0.056,0.126c0.026,0.058,0.053,0.11,0.079,0.167  c0.098,0.214,0.194,0.421,0.294,0.621c0.016,0.032,0.031,0.067,0.047,0.099c0.063,0.125,0.126,0.243,0.189,0.363  c0.108,0.206,0.214,0.4,0.32,0.588c0.052,0.092,0.103,0.182,0.154,0.269c0.144,0.246,0.281,0.472,0.414,0.682  c0.029,0.045,0.057,0.092,0.085,0.135c0.242,0.375,0.452,0.679,0.626,0.916c0.046,0.063,0.086,0.117,0.125,0.17  c0.022,0.029,0.052,0.071,0.071,0.097v3.309c0,0.968-0.528,1.856-1.377,2.32l-2.646,1.443l-0.461-0.041l-0.188,0.395l-5.626,3.069  C15.801,46.924,14,49.958,14,53.262z M58,55.5H16v-2.238c0-2.571,1.402-4.934,3.659-6.164l8.921-4.866  C30.073,41.417,31,39.854,31,38.155v-4.018v-0.001l-0.194-0.232l-0.038-0.045c-0.002-0.003-0.064-0.078-0.165-0.21  c-0.006-0.008-0.012-0.016-0.019-0.024c-0.053-0.069-0.115-0.152-0.186-0.251c-0.001-0.002-0.002-0.003-0.003-0.005  c-0.149-0.207-0.336-0.476-0.544-0.8c-0.005-0.007-0.009-0.015-0.014-0.022c-0.098-0.153-0.202-0.32-0.308-0.497  c-0.008-0.013-0.016-0.026-0.024-0.04c-0.226-0.379-0.466-0.808-0.705-1.283c0,0-0.001-0.001-0.001-0.002  c-0.127-0.255-0.254-0.523-0.378-0.802l0,0c-0.017-0.039-0.035-0.077-0.052-0.116h0c-0.055-0.125-0.11-0.256-0.166-0.391  c-0.02-0.049-0.04-0.1-0.06-0.15c-0.052-0.131-0.105-0.263-0.161-0.414c-0.102-0.272-0.198-0.556-0.29-0.849l-0.055-0.178  c-0.006-0.02-0.013-0.04-0.019-0.061c-0.094-0.316-0.184-0.639-0.26-0.971l-0.091-0.396l-0.341-0.22  C26.346,25.803,26,25.176,26,24.5v-4c0-0.561,0.238-1.084,0.67-1.475L27,18.728V12.5v-0.354l-0.027-0.021  c-0.034-0.722,0.009-2.935,1.623-4.776C30.253,5.458,33.081,4.5,37,4.5c3.905,0,6.727,0.951,8.386,2.828  c1.947,2.201,1.625,5.017,1.623,5.041L47,18.728l0.33,0.298C47.762,19.416,48,19.939,48,20.5v4c0,0.873-0.572,1.637-1.422,1.899  l-0.498,0.153l-0.16,0.495c-0.669,2.081-1.622,4.003-2.834,5.713c-0.297,0.421-0.586,0.794-0.837,1.079L42,34.123v4.125  c0,1.77,0.983,3.361,2.566,4.153l9.553,4.776C56.513,48.374,58,50.78,58,53.457V55.5z"
+                        ></path></svg
+                    ></span>
+                    <h2 class="u-text u-text-7">Personalized</h2>
+                    <p class="u-text u-text-8">
+                      Every person is different. Every importation and
+                      exportation is different. Our brokerage team is very
+                      attentive and will carefully consider your circumstance
+                      and give you a tailored import & export clearance plan, to
+                      ensure you enjoy a fast and smooth process.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="u-size-30"></div>
               <div class="u-size-30">
                 <div class="u-layout-row">
-                  <div
-                    class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-3"
-                  >
-                    <div class="u-container-layout u-valign-top">
-                      <span
-                        class="u-icon u-icon-circle u-text-palette-1-base u-icon-3"
-                        ><svg
-                          class="u-svg-link"
-                          preserveAspectRatio="xMidYMin slice"
-                          viewBox="0 0 60 60"
-                          style=""
-                        >
-                          <use xlink:href="#svg-f3da"></use></svg
-                        ><svg
-                          class="u-svg-content"
-                          viewBox="0 0 60 60"
-                          x="0px"
-                          y="0px"
-                          id="svg-f3da"
-                          style="enable-background: new 0 0 60 60"
-                        >
-                          <path
-                            d="M55.014,45.389l-9.553-4.776C44.56,40.162,44,39.256,44,38.248v-3.381c0.229-0.28,0.47-0.599,0.719-0.951  c1.239-1.75,2.232-3.698,2.954-5.799C49.084,27.47,50,26.075,50,24.5v-4c0-0.963-0.36-1.896-1-2.625v-5.319  c0.056-0.55,0.276-3.824-2.092-6.525C44.854,3.688,41.521,2.5,37,2.5s-7.854,1.188-9.908,3.53c-1.435,1.637-1.918,3.481-2.064,4.805  C23.314,9.949,21.294,9.5,19,9.5c-10.389,0-10.994,8.855-11,9v4.579c-0.648,0.706-1,1.521-1,2.33v3.454  c0,1.079,0.483,2.085,1.311,2.765c0.825,3.11,2.854,5.46,3.644,6.285v2.743c0,0.787-0.428,1.509-1.171,1.915l-6.653,4.173  C1.583,48.134,0,50.801,0,53.703V57.5h14h2h44v-4.043C60,50.019,58.089,46.927,55.014,45.389z M14,53.262V55.5H2v-1.797  c0-2.17,1.184-4.164,3.141-5.233l6.652-4.173c1.333-0.727,2.161-2.121,2.161-3.641v-3.591l-0.318-0.297  c-0.026-0.024-2.683-2.534-3.468-5.955l-0.091-0.396l-0.342-0.22C9.275,29.899,9,29.4,9,28.863v-3.454  c0-0.36,0.245-0.788,0.671-1.174L10,23.938l-0.002-5.38C10.016,18.271,10.537,11.5,19,11.5c2.393,0,4.408,0.553,6,1.644v4.731  c-0.64,0.729-1,1.662-1,2.625v4c0,0.304,0.035,0.603,0.101,0.893c0.027,0.116,0.081,0.222,0.118,0.334  c0.055,0.168,0.099,0.341,0.176,0.5c0.001,0.002,0.002,0.003,0.003,0.005c0.256,0.528,0.629,1,1.099,1.377  c0.005,0.019,0.011,0.036,0.016,0.054c0.06,0.229,0.123,0.457,0.191,0.68l0.081,0.261c0.014,0.046,0.031,0.093,0.046,0.139  c0.035,0.108,0.069,0.215,0.105,0.321c0.06,0.175,0.123,0.356,0.196,0.553c0.031,0.082,0.065,0.156,0.097,0.237  c0.082,0.209,0.164,0.411,0.25,0.611c0.021,0.048,0.039,0.1,0.06,0.147l0.056,0.126c0.026,0.058,0.053,0.11,0.079,0.167  c0.098,0.214,0.194,0.421,0.294,0.621c0.016,0.032,0.031,0.067,0.047,0.099c0.063,0.125,0.126,0.243,0.189,0.363  c0.108,0.206,0.214,0.4,0.32,0.588c0.052,0.092,0.103,0.182,0.154,0.269c0.144,0.246,0.281,0.472,0.414,0.682  c0.029,0.045,0.057,0.092,0.085,0.135c0.242,0.375,0.452,0.679,0.626,0.916c0.046,0.063,0.086,0.117,0.125,0.17  c0.022,0.029,0.052,0.071,0.071,0.097v3.309c0,0.968-0.528,1.856-1.377,2.32l-2.646,1.443l-0.461-0.041l-0.188,0.395l-5.626,3.069  C15.801,46.924,14,49.958,14,53.262z M58,55.5H16v-2.238c0-2.571,1.402-4.934,3.659-6.164l8.921-4.866  C30.073,41.417,31,39.854,31,38.155v-4.018v-0.001l-0.194-0.232l-0.038-0.045c-0.002-0.003-0.064-0.078-0.165-0.21  c-0.006-0.008-0.012-0.016-0.019-0.024c-0.053-0.069-0.115-0.152-0.186-0.251c-0.001-0.002-0.002-0.003-0.003-0.005  c-0.149-0.207-0.336-0.476-0.544-0.8c-0.005-0.007-0.009-0.015-0.014-0.022c-0.098-0.153-0.202-0.32-0.308-0.497  c-0.008-0.013-0.016-0.026-0.024-0.04c-0.226-0.379-0.466-0.808-0.705-1.283c0,0-0.001-0.001-0.001-0.002  c-0.127-0.255-0.254-0.523-0.378-0.802l0,0c-0.017-0.039-0.035-0.077-0.052-0.116h0c-0.055-0.125-0.11-0.256-0.166-0.391  c-0.02-0.049-0.04-0.1-0.06-0.15c-0.052-0.131-0.105-0.263-0.161-0.414c-0.102-0.272-0.198-0.556-0.29-0.849l-0.055-0.178  c-0.006-0.02-0.013-0.04-0.019-0.061c-0.094-0.316-0.184-0.639-0.26-0.971l-0.091-0.396l-0.341-0.22  C26.346,25.803,26,25.176,26,24.5v-4c0-0.561,0.238-1.084,0.67-1.475L27,18.728V12.5v-0.354l-0.027-0.021  c-0.034-0.722,0.009-2.935,1.623-4.776C30.253,5.458,33.081,4.5,37,4.5c3.905,0,6.727,0.951,8.386,2.828  c1.947,2.201,1.625,5.017,1.623,5.041L47,18.728l0.33,0.298C47.762,19.416,48,19.939,48,20.5v4c0,0.873-0.572,1.637-1.422,1.899  l-0.498,0.153l-0.16,0.495c-0.669,2.081-1.622,4.003-2.834,5.713c-0.297,0.421-0.586,0.794-0.837,1.079L42,34.123v4.125  c0,1.77,0.983,3.361,2.566,4.153l9.553,4.776C56.513,48.374,58,50.78,58,53.457V55.5z"
-                          ></path></svg
-                      ></span>
-                      <h2 class="u-text u-text-7">Personal</h2>
-                      <p class="u-text u-text-8">
-                        With energy, enthusiasm and expertise, we work hard
-                        every day on our customers behalf. For us, being close
-                        to our customers is an essential aspect of providing
-                        outstanding services.
-                      </p>
-                    </div>
-                  </div>
                   <div
                     class="u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-4"
                   >
@@ -1053,12 +1669,19 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                             ></path>
                           </g></svg
                       ></span>
-                      <h2 class="u-text u-text-9">Sustainable</h2>
+                      <h2 class="u-text u-text-9">
+                        Tailored for your special needs
+                      </h2>
                       <p class="u-text u-text-10">
-                        On all levels of our organization and business units,
-                        our aim is to add value and act responsibly. We work
-                        towards sustainable success and treat our company and
-                        its resources with care.
+                        Customer-eccentric, our team is focused on the needs of
+                        our customers and clients. We aim at delivering a
+                        world-class service, efficient, cost-effective and
+                        hassle free. We cherish your loyalty and patronage.
+                        Should you become a regular importer/exporter, you are
+                        encouraged to set up an account with us. The more you
+                        engage with us for your import/export clearance needs,
+                        the better the rate we will be able to offer you.
+                        Enquire now!
                       </p>
                     </div>
                   </div>
@@ -1108,7 +1731,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
             >
               <div class="u-container-layout u-container-layout-2">
                 <h2 class="u-text u-text-body-alt-color u-text-2">
-                  Base in New Zealand&nbsp;
+                  Based in New Zealand&nbsp;
                 </h2>
                 <div
                   class="u-border-6 u-border-palette-3-base u-line u-line-horizontal u-line-2"
@@ -1248,9 +1871,10 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                 <p class="u-text u-text-2">
                   Corporate social responsibility is important to us. We believe
                   that taking economic, environmental and social factors into
-                  consideration leads to long-term business success. This
-                  approach has a long history at Schneider, as we have more than
-                  10 years of experience.
+                  consideration leads to sustainable long-term business success.
+                  We now have more than 10 years of experience in this vibrant
+                  industry. Please do not hesitate to call us for all your
+                  import/export and logistics needs.
                 </p>
                 <a
                   href="/news"
@@ -1356,8 +1980,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                         &nbsp;<br />
                         <a
                           class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1"
-                          href="tel:+640210343101"
-                          >+64 021 034 3101 (office)</a
+                          href="tel:+64210343101"
+                          >+64 210 343 101 (office)</a
                         >
                       </p>
                     </div>
@@ -1436,7 +2060,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                             )
                           "
                           href="javascript:void(0)"
-                          >Import inquries: imports@expresscustomsbrokers.co.nz</a
+                          >Import inquries:
+                          imports@expresscustomsbrokers.co.nz</a
                         >
                       </p>
                     </div>
@@ -1448,9 +2073,9 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
         </div>
       </div>
     </section>
-    <section style="margin-top: 10px;">
+    <!-- <section style="margin-top: 10px;">
       <Faq />
-    </section>
+    </section> -->
     <Footer />
   </Layout>
   <QuoteForm v-model="showForm" :toEmail="toEmail" />
@@ -1462,7 +2087,7 @@ import Footer from '../../layout/footer/footer.vue';
 import { ref } from 'vue';
 import QuoteForm from '../../components/QuoteForm/QuoteForm.vue';
 import { useRouter } from 'vue-router';
-import Faq from '../../components/Faq/index.vue';
+// import Faq from '../../components/Faq/index.vue';
 
 const showForm = ref(false);
 const router = useRouter();
