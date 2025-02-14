@@ -14,8 +14,8 @@
               We are committed to our customer's success and satisfaction. With us, you will get great service, wherever your cargo comes from!&nbsp;
               &nbsp; &nbsp; &nbsp;&nbsp;<br />
               <br />Our service includes<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              Import and export Customs clearance<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              Import and export document preparation<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              Import and Export Customs clearance<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              Import and Export document preparation<br />&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               Import &amp; Export licensing<br />&nbsp;
               ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Import &amp; Export
               code applications&nbsp;<br />&nbsp; ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

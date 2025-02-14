@@ -108,7 +108,7 @@
                         professional import and export advice. We have extensive
                         experience and knowledge in processing customs
                         procedures of main ports around New Zealand. -->
-                        Feel free to reach out to our dedicated team for professional import and export advice. Our staff have over thirteen years' experience and knowledge in  dealing with Customs procedures at all the main ports around New Zealand.
+                        Feel free to reach out to our dedicated team for professional import and export advice. Our staff have over thirteen years' experience and knowledge in dealing with Customs procedures at all the main ports around New Zealand.
                       </p>
                     </div>
                   </div>
@@ -160,7 +160,9 @@
                         discussing your options and confusions with some
                         professionals, you are always welcomed to us.<br />Email
                         or Call us now! -->
-                        There are many importers who are confused with the regulations and paper work required to successfully import. In the cases we were engaged in, so many clients failed to investigate and decide their terms of trade, payment, and transport options because of lack of communication with their shipping or forwarding companies. If you urgently need to discuss your options and confusions with some professionals, you are always welcome to us. Email or Call us now!
+                        There are many importers who are confused with the regulations and paper work required to successfully import.<br>
+                        In the cases we were engaged in, so many clients failed to investigate and decide their terms of trade, payment, and transport options because of lack of communication with their shipping or forwarding companies.<br>
+                        If you urgently need to discuss your options and confusions with some professionals, you are always welcome to us. Email or Call us now!
                       </p>
                     </div>
                   </div>
@@ -195,7 +197,7 @@
                         professional advice and service, Mr. R did receive his
                         parcel on time with satisfaction. -->
                         We helped one of our clients out of one complicated and difficult custom clearance case. <br>
-It was Mr. R's first time to bring goods into NZ from overseas. Mr. R was quite confused about the clearance process and had no idea about where to start or how to deal with all the paperwork. Our diligent team spent plenty of time and put lots of effort in communicating with his logistics agency and prepared related departments to make the whole process work very smoothly. Thanks to our professional advice and service, Mr. R received his parcel on time and was completely satisfied.
+                        It was Mr. R's first time to bring goods into NZ from overseas. Mr. R was quite confused about the clearance process and had no idea about where to start or how to deal with all the paperwork. Our diligent team spent plenty of time and put lots of effort in communicating with his logistics agency and prepared related departments to make the whole process work very smoothly. Thanks to our professional advice and service, Mr. R received his parcel on time and was completely satisfied.
                       </p>
                     </div>
                   </div>
@@ -212,10 +214,9 @@ It was Mr. R's first time to bring goods into NZ from overseas. Mr. R was quite 
                       />
                       <h3 class="u-custom-font u-text u-text-9">Growing</h3>
                       <p class="u-text u-text-10">
-                        We are a rapidly growing company, dedicated to offering
-                        our clients the best and most efficient service. Welcome
-                        customers and clients from all around the world. Let us
-                        take the hassle out of your importing and exporting
+                        We are a rapidly growing company, dedicated to offering our clients the best and most efficient service. Welcome
+                        customers and clients from all around the world. <br>
+                        Let us take the hassle out of your importing and exporting
                         requirements. Our professional team will ensure your
                         goods are where they should be in the quickest possible
                         time.
@@ -239,13 +240,13 @@ It was Mr. R's first time to bring goods into NZ from overseas. Mr. R was quite 
                       <p class="u-text u-text-12">
                         If you are planning to send multiple packages, pallet
                         delivery will be your best solution rather than
-                        arranging several individual deliveries. First and
-                        foremost, pallet shipments are a cheaper option than
+                        arranging several individual deliveries. <br>
+                        First and foremost, pallet shipments are a cheaper option than
                         sending loose cartons. The courier would normally
                         provide some additional service to help when handling
                         larger and heavier shipments when you choose to send
-                        your goods as a pallet lot. There are also many
-                        different size options you can select from a quarter to
+                        your goods as a pallet lot.  <br>
+                        There are also many different size options you can select from, a quarter to
                         a full pallet and even an oversized pallet.&nbsp;<br />
                         <br />
                       </p>

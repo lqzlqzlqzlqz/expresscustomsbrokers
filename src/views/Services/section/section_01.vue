@@ -286,8 +286,8 @@ const originalSlides = [
     style: "linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://expresscustomsbrokers.co.nz/wp-content/uploads/2021/12/tryy-min.jpg')",
     title: 'Import & Export',
     list: [
-      'Import and export Customs clearance',
-      'Import and export document preparation',
+      'Import and Export Customs clearance',
+      'Import and Export document preparation',
       'Import & Export licensing',
       'Import & Export code applications',
       "Cost calculations for MPI & Customs' Inspections"

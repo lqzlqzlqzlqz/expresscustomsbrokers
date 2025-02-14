@@ -12,7 +12,7 @@
             <h2
               class="u-text u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1"
             >
-              AIR FRIGHT
+              AIR FREIGHT
             </h2>
             <p class="u-text u-text-2">
               Air Freight is a fast, efficient and safe way to transport goods
