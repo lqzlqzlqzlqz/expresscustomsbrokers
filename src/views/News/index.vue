@@ -419,7 +419,7 @@
               Hassle-free Transportation&nbsp;
             </h2>
             <p class="u-align-center-lg u-text u-text-2">
-              One of our company's core values is to make life easier for the
+              One of our company’s core values is to make life easier for the
               shipping community. Our world-class supportive staff will provide
               you with a high-quality professional service to deliver you an
               unparalleled experience.
@@ -485,7 +485,7 @@
                   ></span>
                   <p class="u-text u-text-3">
                     Very professional Customs brokers providing efficient
-                    Customs clearance service. The staffs are really patient and
+                    Customs clearance service. The staff are really patient and
                     professional. My case was complicated. Express Customs
                     Brokers Ltd spent lots of time and effort and sorted
                     everything out for me. I am really satisfied with their

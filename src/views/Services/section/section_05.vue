@@ -207,7 +207,7 @@ const showForm = ref(false);
 const servicesList = ref([
   "Customs Clerance",
   "Import & Export documentation preparation",
-  "import & Export Customs clearance ",
+  "Import & Export Customs clearance ",
   "Personal effects Customs & MPI clearance",
   "Online shopping/shipment Customs clearance ",
   "Importer & Exporter code/client code application",
